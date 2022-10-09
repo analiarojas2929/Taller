@@ -1,0 +1,13 @@
+.container-fluid {
+    background-color: #aaafae;
+}
+
+nav.inicioseccion{
+	margin-top: 10px;
+	height: 60px;
+	margin-right: 10px;
+}
+
+footer{
+    background-color: #aaafae;
+}
